@@ -1,2 +1,2 @@
 # zht1702.github.io
-Create to show the first website.
+This is the repository to hang the static html to the Internet.
